@@ -48,3 +48,9 @@ Below are the details on parameters present in `configurations.py` file
 
   
 ***While passing the values manually, the paths should not contain spaces***
+Added by jayadeep
+added by Rohit
+added by jayadeep2
+added by rohit2
+gg
+jj
